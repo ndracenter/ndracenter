@@ -11,5 +11,5 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,php,python,html,css,json,bash)](https://github.com/ndracenter)
 
-![My Card ](https://cardivo.vercel.app/api?name=Ndra%VPN%20&description="ndra%center"&image=https://l.top4top.io/p_2304dljon0.png&backgroundColor=%23ecf0f1&instagram=@xyn.dra_%20&github=ndracenter&whatsapp=+6285708391463&pattern=leaf&colorPattern=%23eaeaea)
+![My Card ](https://cardivo.vercel.app/api?name=Ndra%VPN%20&description="ndracenter"&image=https://l.top4top.io/p_2304dljon0.png&backgroundColor=%23ecf0f1&instagram=@xyn.dra_%20&github=ndracenter&whatsapp=+6285708391463&pattern=leaf&colorPattern=%23eaeaea)
 
