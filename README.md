@@ -9,7 +9,5 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ndracenter?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=ndracenter&data=followers,repositories,stars,commits" width="600">
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,php,python,html,css,json,bash)](https://github.com/ndracenter)
 
