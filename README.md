@@ -13,6 +13,3 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,php,python,html,css,json,bash)](https://github.com/ndracenter)
 
-<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ndracenter"></a>
-
-
