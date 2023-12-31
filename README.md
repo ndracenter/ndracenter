@@ -1,3 +1,5 @@
+## Assalamu'alaikum warahmatullahi wabarakatuh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yellowtail&color=%23000000&size=30&center=true&vCenter=true&lines=Wellcome+to+ndracenter;MyhobbyProggrammers;I+live+in+Indonesia)](https://git.io/typing-svg)
 
 <p align="center">
